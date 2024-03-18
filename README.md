@@ -1,7 +1,5 @@
 # Amanda Beauty
 
-A new Flutter project.
+Project Management app for Bridal Services.
 
-## Getting Started
-
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+Created in Flutterflow.
