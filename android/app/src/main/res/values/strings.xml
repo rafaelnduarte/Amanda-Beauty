@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">Amanda Beauty</string>
+    <string name="facebook_app_id">327354346822033</string>
+               <string name="fb_login_protocol_scheme">fb327354346822033</string>
+</resources>

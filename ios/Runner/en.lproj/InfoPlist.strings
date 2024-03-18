@@ -1,0 +1,6 @@
+NSPhotoLibraryUsageDescription = "Allow the app to access your Photo Library";
+NSLocationWhenInUseUsageDescription = "Allow the app to access your Location";
+PermissionGroupNotification = "Allow the app to send you Notifications";
+NSContactsUsageDescription = "Allow the app to access your Contacts";
+NSCalendarsUsageDescription = "Allow the app to access your Calendar";
+NSFaceIDUsageDescription = "Enter the app with TouchID or FaceID";
