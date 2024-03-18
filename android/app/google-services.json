@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "937014926679",
+    "project_id": "amanda-beauty-cdu9n7",
+    "storage_bucket": "amanda-beauty-cdu9n7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937014926679:android:6624ff568e29839cf93212",
+        "android_client_info": {
+          "package_name": "com.mycompany.amandabeauty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937014926679-aekkuqv8cs3m2pklm012c443jnn9kjpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx-kKHWsa3A51tudaskGCGbrb3cyy6z8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937014926679-aekkuqv8cs3m2pklm012c443jnn9kjpr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "937014926679-d5cfdjr35k6oh33cej8klf76i381sr0a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.amandabeauty"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
